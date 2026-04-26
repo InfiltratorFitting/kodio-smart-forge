@@ -5,7 +5,6 @@
 
 Kodio Studio brings intelligent code generation, workspace sharing, and live collaboration features to your favorite IDE. Generate code with AI, share your entire workspace with teammates, and code together in real-time with cursor sharing and file locking.
 
-![Kodio Studio Extension](https://raw.githubusercontent.com/InfiltratorFitting/kodio-smart-forge/main/images/kodio-vscode-collaboration-demo.png)
 
 ## 🎬 See It In Action
 
